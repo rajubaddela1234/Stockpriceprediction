@@ -1,0 +1,14 @@
+tensorflow==2.18.0
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+yfinance
+datetime
+keras-tuner
+streamlit
+visualkeras
+statsmodels
+keras==3.8.0
